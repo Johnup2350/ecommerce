@@ -1,0 +1,61 @@
+#famain1 {
+  background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0a0918100874261.5f1214d248b31.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.colonm1 {
+  background-image: url(https://www.lus.so/wp-content/uploads/2025/03/Koenigsegg-Jesko-Absolut-Luxury-car-broker-LUSSO-2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.colonn1 {
+  background-image: url(https://cdn.motor1.com/images/mgl/OoJRqo/s3/koenigsegg-sadair-s-spear.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.colono1 {
+  background-image: url(https://koenigsegg-cdn-g7eehhd6f0ewcaff.z02.azurefd.net/drupal/styles/730x850/azure/2024-02/KAABHotvee.jpg?h=05130908&itok=nnbr3LNY);
+  background-size: cover;
+  background-position: center;
+  background-size: contain;
+}
+.colonm6 {
+  background-image: url(https://www.razaoautomovel.com/wp-content/uploads/2019/03/Koenigsegg-Regera-Christian-von-Koenigsegg-2-1_925x520_acf_cropped.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.interacao {
+  background-image: url(https://i.pinimg.com/474x/3f/1e/37/3f1e375fccbcb32bb7b16b28b8199a3e.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#photo-markus {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwUyeTtG7HE8Ij9ybUo3YFOFh4puYrGE2bIw&s);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#photo-niklas {
+  background-image: url(https://static.bonniernews.se/ba/ec46dbbc-e4d2-5cef-b8e0-d9c4a1797632.jpeg?crop=16%3A9&width=1200&format=pjpg&auto=avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#photo-carina {
+  background-image: url(https://cdn.aquelamaquina.pt/images/2019-01/img_944x629$2019_01_30_13_47_08_138476.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#photo-christian {
+  background-image: url(https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/06/10/3bc51a72-6a68-11e9-994e-1d1e521ccbf6_image_hires_120113.jpg?itok=C9y4xTd_&v=1560139279);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
