@@ -578,7 +578,7 @@ p {
   bottom: 2.5%;
   right: 2.5%;
   z-index: 1000;
-  border: 1px solid var(--Cor-blan);
+  border: 1px solid var(--prim-ble);
   border-radius: 5px;
   padding: 5px;
   display: flex;
@@ -589,7 +589,7 @@ p {
 }
 
 .bodysetacima a {
-  color: var(--Cor-blan);
+  border: 1px solid var(--prim-ble);
   font-size: 24px;
   display: flex;
   justify-content: center;
