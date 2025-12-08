@@ -59,7 +59,7 @@
 
 @media screen and (max-width: 1080px) {
   .menufooter h1 {
-      font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: var(--Cor-noir);
     font-size: 1.5rem;
   }
@@ -67,7 +67,7 @@
 @media screen and (max-width: 1080px) {
   .menufooter a {
     color: var(--Cor-noir);
-  font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 0.9rem;
   }
 }
@@ -93,4 +93,7 @@
 }
 
 @media screen and (max-width: 1080px) {
+  .batt1 {
+    gap: 20px;
+  }
 }
