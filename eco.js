@@ -1,3 +1,4 @@
+  alert("Esta é a minha mensagem de alerta!");
 document.addEventListener('DOMContentLoaded', (event) => {
     const links = document.querySelectorAll('a[href^="#"]');
 

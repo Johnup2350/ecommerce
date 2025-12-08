@@ -47,7 +47,7 @@
 @media screen and (max-width: 1080px) {
   .div1 {
     width: 20%;
-    height: 80%;
+    height: 70%;
     gap: 20px;
     padding: 2px;
     display: flex;
@@ -58,16 +58,17 @@
 }
 
 @media screen and (max-width: 1080px) {
-  .menufooter a {
+  .menufooter h1 {
+      font-family: "Roboto", sans-serif;
     color: var(--Cor-noir);
-    font-family: "Audiowide", sans-serif;
-    font-size: 0.9rem;
+    font-size: 1.5rem;
   }
 }
-
 @media screen and (max-width: 1080px) {
-  .footer {
-    display: none;
+  .menufooter a {
+    color: var(--Cor-noir);
+  font-family: "Roboto", sans-serif;
+    font-size: 0.9rem;
   }
 }
 
