@@ -30,7 +30,7 @@
   background-position: center;
 }
 .interacao {
-  background-image: url(https://i.pinimg.com/474x/3f/1e/37/3f1e375fccbcb32bb7b16b28b8199a3e.jpg);
+  background-image: url(https://scontent.fmcz15-1.fna.fbcdn.net/v/t39.30808-6/565138377_1153382886719470_2681757070689658551_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEg3dHbj0U0kBxy5FcaYDZnva3KXI4UcBu9rcpcjhRwGxjPUMbAMZQCiJ930DMhE0H-zrBBoPMI3Kg4G1PXkjFP&_nc_ohc=v44AordcYcIQ7kNvwGhi3I-&_nc_oc=AdmqurQ2K4VLkQv65weseZYf2jSrDFINxF3Dzt6V6TvJ-1rQQYTbqyphQQqc1No1O-zNnzj_2gBRTGKQQPcRE-mi&_nc_zt=23&_nc_ht=scontent.fmcz15-1.fna&_nc_gid=jVaKcRZryvcWeio7fnISPw&oh=00_AfmRzSkio2XeXA4mmxiCRxGg41LAGfkgtHpyCkis9nsfPg&oe=693BFA24);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -40,22 +40,26 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 #photo-niklas {
   background-image: url(https://static.bonniernews.se/ba/ec46dbbc-e4d2-5cef-b8e0-d9c4a1797632.jpeg?crop=16%3A9&width=1200&format=pjpg&auto=avif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 #photo-carina {
   background-image: url(https://cdn.aquelamaquina.pt/images/2019-01/img_944x629$2019_01_30_13_47_08_138476.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 #photo-christian {
   background-image: url(https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/06/10/3bc51a72-6a68-11e9-994e-1d1e521ccbf6_image_hires_120113.jpg?itok=C9y4xTd_&v=1560139279);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }

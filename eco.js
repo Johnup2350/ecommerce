@@ -1,4 +1,4 @@
-  alert("Esta é a minha mensagem de alerta!");
+alert("Esta sendo Desenvolvido pelo Dev John-orly!");
 document.addEventListener('DOMContentLoaded', (event) => {
     const links = document.querySelectorAll('a[href^="#"]');
 
