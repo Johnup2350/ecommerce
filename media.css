@@ -34,13 +34,13 @@
 @media screen and (max-width: 1080px) {
   #logo {
     font-family: "Fruktur", system-ui;
-    font-size: 3rem;
+    font-size: 1.8rem;
   }
 }
 
 @media screen and (max-width: 1080px) {
   #famain1 h1 {
-    font-size: 2.9rem;
+    font-size: 3.2rem;
   }
 }
 
